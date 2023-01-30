@@ -1,0 +1,21 @@
+
+
+Welcome User : {USER} ., 
+
+Welcome to SM Shopping Kart...!
+
+Thank You For Posting & Your Post Details Are :
+
+Post Id :: "{POST-ID}"
+
+Post Title ::  "{POST-TITLE}"
+	
+Post Content ::  "{POST-CONTENT}"
+	
+Post description ::  "{POST-DESCRIPTION}"
+
+Post Created Date ::  "{CREATED-DATE}"
+
+Post Updated Date ::  "{UPDATED-DATE}"
+
+	
